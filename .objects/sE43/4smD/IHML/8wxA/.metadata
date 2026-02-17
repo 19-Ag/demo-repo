@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Place order",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8wxAD_pYH0Ckaxk37cR_UA",
+  "Reference": "5D1RuEuVNk6rkvB98WAm5g/8wxAD_pYH0Ckaxk37cR_UA",
+  "ParentRef": "5D1RuEuVNk6rkvB98WAm5g/IHMLbjnHQU2D3_07_PGzrw",
+  "Created": "2026-02-17T07:47:29.6493542Z",
+  "Updated": "2026-02-17T07:47:29.6493542Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

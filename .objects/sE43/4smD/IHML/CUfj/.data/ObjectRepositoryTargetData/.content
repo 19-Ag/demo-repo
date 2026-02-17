@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gzmlEljGBEGq7k27-wcO_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.yo-kart.com/admin/admin-guest/login-form" CVScreenId="beda4d70-d7b5-43b9-8f6f-88bc100e818f" CvTextArea="176, 298, 160, 14" CvTextArgument="STORE - demoblaze.com" CvType="Text" DesignTimeRectangle="176, 298, 160, 14" ElementType="Text" Guid="462a13f5-914f-4763-9916-6949a2e57b26" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yo!Kart Ecommerce Marketplace Software - Live Demo | Yo!Kart' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="363dcaea2a854281f6bc4e155ec26248.png" xmlns="">0llQjBkjzekmUSW3Tyq6KoQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

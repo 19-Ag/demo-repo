@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UN4yZZQvmk6KTHw54tOs_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoblaze.com/cart.html" CVScreenId="6587c879-bec0-4c81-8e2f-d1fe69ff29c4" CvTextArea="566, 197, 101, 18" CvTextArgument="Place order" CvType="Text" DesignTimeRectangle="567, 193, 98, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl id='orderModalLabel' tag='H5' /&gt;" Guid="5bd24aa7-6f55-43cd-a5cc-59d0d44d7b02" ScopeSelectorArgument="&lt;html app='chrome.exe' title='STORE' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b691531bb063939b1c70e48d4b268c9d.png" xmlns="">0qn3q9qwW0kal7ot377uaRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

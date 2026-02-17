@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XwLun_U4JEaNTVfp51Oufg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="de78d720-20d2-4aee-affd-fdf91b6e6a67" CvTextArea="218, 549, 40, 12" CvTextArgument="STORE" CvType="Text" DesignTimeRectangle="183, 467, 112, 112" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl idx='7' role='grouping' /&gt;" Guid="95848eba-0032-4016-8674-a0dd6545ea26" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fea8698946d172ff41ac385f32b539d3.png" xmlns="">09do91aLMH0eXYDlYZXGcuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

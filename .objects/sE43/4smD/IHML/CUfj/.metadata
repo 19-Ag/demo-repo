@@ -1,0 +1,14 @@
+﻿{
+  "Name": "STORE - demoblaze.com",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CUfjtkInEUG9a3CUl6k1Dg",
+  "Reference": "5D1RuEuVNk6rkvB98WAm5g/CUfjtkInEUG9a3CUl6k1Dg",
+  "ParentRef": "5D1RuEuVNk6rkvB98WAm5g/IHMLbjnHQU2D3_07_PGzrw",
+  "Created": "2026-02-17T06:43:53.0481753Z",
+  "Updated": "2026-02-17T06:43:53.0481753Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
