@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g-QjATcUAU-yYsNyzL-nNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoblaze.com" CVScreenId="eb626b38-69bf-48f6-a01d-55257539462b" CvTextArea="1122, 756, 86, 21" CvTextArgument="Nexus 6" CvType="Text" DesignTimeRectangle="1121, 756, 87, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Nexus 6' class='hrefch' parentid='tbodyid' tag='A' /&gt;" Guid="bca79127-1ad1-41c3-b6df-12a91d63e396" ScopeSelectorArgument="&lt;html app='chrome.exe' title='STORE' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d809247818559a0f8c86bc6d2162cddc.png" xmlns="">0qM_eFITMYUC5julKstZFPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

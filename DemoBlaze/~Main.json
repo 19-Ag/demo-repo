@@ -1,0 +1,1 @@
+{"model":{"path":"C:\\Users\\TXCHD-LAP-173\\Documents\\UiPath\\DemoBlaze\\DemoBlaze\\~Main.xaml","arguments":[],"outline":{"nodeName":"Activity","items":[{"displayName":"Main","nodeName":"Sequence","items":[{"displayName":"TestCase - Invoke Workflow File (TestCase.xaml)","nodeName":"InvokeWorkflowFile"}]}]}},"lastModified":"2026-02-18T10:21:37.2621222Z"}
